@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.blogPost {
+  border-width: 1;
+  border-color: black;
+  background-color: azure;
+}
